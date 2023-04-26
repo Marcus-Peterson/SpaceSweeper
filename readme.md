@@ -1,6 +1,6 @@
 
 I had an issue of not having enough diskspace on my computer. 
-I uninstalled a lot of applications, but that didn't seem tp help. 
+I uninstalled a lot of applications, but that didn't seem to help. 
 So I came up with an idea of searching and sorting files in a seperate documents based off file size.
 Since I didn't have a good way of transfering all of my files to an external hardrive (Because I dont want to spend hundreds of dollars on an external hardrive that I will probably only use once)
 And since I only needed a limited amount of space, it seemed to unncessary to clean my entire computer. 
